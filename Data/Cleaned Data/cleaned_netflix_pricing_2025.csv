@@ -1,0 +1,245 @@
+Country,Currency,Mobile,Standard_with_ads_Local,Basic,Standard,Premium,Extra_member_slots_Details,Price_Mobile_USD,Price_With_Ads_USD,Price_Basic_USD,Price_Standard_USD,Price_Premium_USD,Code
+Pakistan,PKR,250.0,,450.0,800.0,1100.0,Not Available,0.89,0.0,1.61,2.86,3.93,PK
+Egypt,EGP,,,100.0,170.0,240.0,Not Available,0.0,0.0,2.1,3.56,5.03,EG
+Nigeria,NGN,2500.0,,4000.0,6500.0,8500.0,Not Available,1.72,0.0,2.74,4.46,5.83,NG
+India,INR,149.0,,199.0,499.0,649.0,Not Available,1.66,0.0,2.22,5.56,7.23,IN
+Belize,USD,,,3.99,5.99,7.99,Standard: 1 / Premium: 2,0.0,0.0,3.99,5.99,7.99,BZ
+Bolivia,USD,,,3.99,5.99,7.99,Standard: 1 / Premium: 2,0.0,0.0,3.99,5.99,7.99,BO
+Cuba,USD,,,3.99,5.99,7.99,Standard: 1 / Premium: 2,0.0,0.0,3.99,5.99,7.99,CU
+Dominica,USD,,,3.99,5.99,7.99,Standard: 1 / Premium: 2,0.0,0.0,3.99,5.99,7.99,DM
+Grenada,USD,,,3.99,5.99,7.99,Standard: 1 / Premium: 2,0.0,0.0,3.99,5.99,7.99,GD
+Guyana,USD,,,3.99,5.99,7.99,Standard: 1 / Premium: 2,0.0,0.0,3.99,5.99,7.99,GY
+Haiti,USD,,,3.99,5.99,7.99,Standard: 1 / Premium: 2,0.0,0.0,3.99,5.99,7.99,HT
+Paraguay,USD,,,3.99,5.99,7.99,Standard: 1 / Premium: 2,0.0,0.0,3.99,5.99,7.99,PY
+St. Barthélemy,USD,,,3.99,5.99,7.99,Standard: 1 / Premium: 2,0.0,0.0,3.99,5.99,7.99,BL
+St. Lucia,USD,,,3.99,5.99,7.99,Standard: 1 / Premium: 2,0.0,0.0,3.99,5.99,7.99,LC
+St. Martin,USD,,,3.99,5.99,7.99,Standard: 1 / Premium: 2,0.0,0.0,3.99,5.99,7.99,MF
+St. Vincent & Grenadines,USD,,,3.99,5.99,7.99,Standard: 1 / Premium: 2,0.0,0.0,3.99,5.99,7.99,VC
+Suriname,USD,,,3.99,5.99,7.99,Standard: 1 / Premium: 2,0.0,0.0,3.99,5.99,7.99,SR
+Venezuela,USD,,,3.99,5.99,7.99,Standard: 1 / Premium: 2,0.0,0.0,3.99,5.99,7.99,VE
+Kenya,KES,200.0,,300.0,700.0,1100.0,Not Available,1.55,0.0,2.33,5.43,8.53,KE
+Turkey,TRY,,,189.99,289.99,379.99,Not Available,0.0,0.0,4.43,6.75,8.85,TR
+Jamaica,USD,,,4.99,6.99,9.99,Standard: 1 / Premium: 2,0.0,0.0,4.99,6.99,9.99,JM
+Nicaragua,USD,,,4.99,6.99,9.99,Standard: 1 / Premium: 2,0.0,0.0,4.99,6.99,9.99,NI
+Afghanistan,USD,,,3.99,7.99,9.99,Not Available,0.0,0.0,3.99,7.99,9.99,AF
+Algeria,USD,,,3.99,7.99,9.99,Not Available,0.0,0.0,3.99,7.99,9.99,DZ
+Angola,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,AO
+Bangladesh,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,BD
+Benin,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,BJ
+Bhutan,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,BT
+Botswana,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,BW
+British Indian Ocean Territory,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,IO
+Burkina Faso,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,BF
+Burundi,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,BI
+Cambodia,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,KH
+Cameroon,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,CM
+Cape Verde,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,CV
+Central African Republic,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,CF
+Chad,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,TD
+Christmas Island,USD,,,3.99,7.99,9.99,Not Available,0.0,0.0,3.99,7.99,9.99,CX
+Comoros,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,KM
+Congo - Brazzaville,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,CG
+Congo - Kinshasa,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,CD
+Côte d’Ivoire,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,CI
+Djibouti,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,DJ
+Equatorial Guinea,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,GQ
+Eritrea,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,ER
+Eswatini,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,SZ
+Ethiopia,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,ET
+Fiji,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,FJ
+Gabon,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,GA
+Gambia,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,GM
+Ghana,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,GH
+Guinea,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,GN
+Guinea-Bissau,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,GW
+Iraq,USD,,,3.99,7.99,9.99,Not Available,0.0,0.0,3.99,7.99,9.99,IQ
+Jordan,USD,,,3.99,7.99,9.99,Not Available,0.0,0.0,3.99,7.99,9.99,JO
+Kiribati,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,KI
+Laos,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,LA
+Lebanon,USD,,,3.99,7.99,9.99,Not Available,0.0,0.0,3.99,7.99,9.99,LB
+Lesotho,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,LS
+Liberia,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,LR
+Libya,USD,,,3.99,7.99,9.99,Not Available,0.0,0.0,3.99,7.99,9.99,LY
+Madagascar,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,MG
+Malawi,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,MW
+Mali,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,ML
+Mauritania,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,MR
+Mauritius,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,MU
+Mongolia,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,MN
+Mozambique,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,MZ
+Myanmar (Burma),USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,MM
+Namibia,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,
+Niger,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,NE
+Palestine,USD,,,3.99,7.99,9.99,Not Available,0.0,0.0,3.99,7.99,9.99,PS
+Papua New Guinea,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,PG
+Pitcairn Islands,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,PN
+Rwanda,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,RW
+Samoa,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,WS
+São Tomé & Príncipe,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,ST
+Senegal,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,SN
+Seychelles,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,SC
+Sierra Leone,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,SL
+Solomon Islands,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,SB
+Somalia,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,SO
+South Sudan,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,SS
+Sri Lanka,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,LK
+St. Helena,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,SH
+Sudan,USD,,,3.99,7.99,9.99,Not Available,0.0,0.0,3.99,7.99,9.99,SD
+Tanzania,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,TZ
+Timor-Leste,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,TL
+Togo,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,TG
+Tonga,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,TO
+Tunisia,USD,,,3.99,7.99,9.99,Not Available,0.0,0.0,3.99,7.99,9.99,TN
+Tuvalu,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,TV
+Uganda,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,UG
+Vanuatu,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,VU
+Wallis & Futuna,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,WF
+Yemen,USD,,,3.99,7.99,9.99,Not Available,0.0,0.0,3.99,7.99,9.99,YE
+Zambia,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,ZM
+Zimbabwe,USD,2.99,,3.99,7.99,9.99,Not Available,2.99,0.0,3.99,7.99,9.99,ZW
+Iran,USD,,,3.99,7.99,9.99,Not Available,0.0,0.0,3.99,7.99,9.99,IR
+Morocco,MAD,,,35.0,65.0,95.0,Not Available,0.0,0.0,3.84,7.13,10.42,MA
+Vietnam,VND,74000.0,,114000.0,231000.0,273000.0,Not Available,2.82,0.0,4.34,8.8,10.39,VN
+Philippines,PHP,169.0,,279.0,449.0,619.0,Standard: 1 / Premium: 2,2.87,0.0,4.74,7.62,10.51,PH
+Indonesia,IDR,54000.0,,65000.0,120000.0,186000.0,Not Available,3.23,0.0,3.89,7.17,11.12,ID
+Brazil,BRL,,20.9,,44.9,59.9,Standard: 1 / Premium: 2,0.0,3.82,0.0,8.2,10.94,BR
+South Korea,KRW,,7000.0,,13500.0,17000.0,Standard: 1 / Premium: 2,0.0,4.87,0.0,9.38,11.82,KR
+Albania,EUR,,,4.99,7.99,9.99,Not Available,0.0,0.0,5.86,9.39,11.73,AL
+Bosnia & Herzegovina,EUR,,,4.99,7.99,9.99,Not Available,0.0,0.0,5.86,9.39,11.73,BA
+Bulgaria,EUR,,,4.99,7.99,9.99,Not Available,0.0,0.0,5.86,9.39,11.73,BG
+Montenegro,EUR,,,4.99,7.99,9.99,Not Available,0.0,0.0,5.86,9.39,11.73,ME
+North Macedonia,EUR,,,4.99,7.99,9.99,Not Available,0.0,0.0,5.86,9.39,11.73,MK
+Serbia,EUR,,,4.99,7.99,9.99,Not Available,0.0,0.0,5.86,9.39,11.73,RS
+Slovenia,EUR,,,4.99,7.99,9.99,Not Available,0.0,0.0,5.86,9.39,11.73,SI
+Ukraine,EUR,,,4.99,7.49,9.99,Standard: 2.99 / Premium: 2.99,0.0,0.0,5.86,8.8,11.73,UA
+Colombia,COP,,,18900.0,29900.0,44900.0,Standard: 9900 / Premium: 9900,0.0,0.0,5.03,7.96,11.96,CO
+Ecuador,USD,,,5.99,8.99,11.99,Standard: 1 / Premium: 2,0.0,0.0,5.99,8.99,11.99,EC
+Macau,USD,,,7.99,9.99,11.99,Not Available,0.0,0.0,7.99,9.99,11.99,MO
+Western Sahara,USD,,,7.99,9.99,11.99,Not Available,0.0,0.0,7.99,9.99,11.99,EH
+Bouvet Island,USD,,,7.99,9.99,11.99,Not Available,0.0,0.0,7.99,9.99,11.99,BV
+El Salvador,USD,,,5.99,8.99,12.49,Standard: 1 / Premium: 2,0.0,0.0,5.99,8.99,12.49,SV
+Guatemala,USD,,,5.99,8.99,12.49,Standard: 1 / Premium: 2,0.0,0.0,5.99,8.99,12.49,GT
+Thailand,THB,99.0,,169.0,349.0,419.0,Standard: 99 / Premium: 99,3.15,0.0,5.37,11.09,13.31,TH
+South Africa,ZAR,59.0,,99.0,179.0,229.0,Not Available,3.56,0.0,5.97,10.79,13.8,ZA
+Argentina,ARS,,,8999.0,14999.0,19999.0,Standard: 1 / Premium: 2,0.0,0.0,6.2,10.33,13.78,AR
+Hong Kong,HKD,,,73.0,88.0,108.0,Standard: 28 / Premium: 28,0.0,0.0,9.38,11.31,13.88,HK
+Armenia,EUR,,,7.99,9.99,11.99,Not Available,0.0,0.0,9.39,11.73,14.08,AM
+Azerbaijan,EUR,,,7.99,9.99,11.99,Not Available,0.0,0.0,9.39,11.73,14.08,AZ
+Belarus,EUR,,,7.99,9.99,11.99,Not Available,0.0,0.0,9.39,11.73,14.08,BY
+Estonia,EUR,,,7.99,9.99,11.99,Not Available,0.0,0.0,9.39,11.73,14.08,EE
+Kazakhstan,EUR,,,7.99,9.99,11.99,Not Available,0.0,0.0,9.39,11.73,14.08,KZ
+Kyrgyzstan,EUR,,,7.99,9.99,11.99,Not Available,0.0,0.0,9.39,11.73,14.08,KG
+Latvia,EUR,,,7.99,9.99,11.99,Not Available,0.0,0.0,9.39,11.73,14.08,LV
+Lithuania,EUR,,,7.99,9.99,11.99,Not Available,0.0,0.0,9.39,11.73,14.08,LT
+Moldova,EUR,,,7.99,9.99,11.99,Not Available,0.0,0.0,9.39,11.73,14.08,MD
+Turkmenistan,EUR,,,7.99,9.99,11.99,Not Available,0.0,0.0,9.39,11.73,14.08,TM
+Uzbekistan,EUR,,,7.99,9.99,11.99,Not Available,0.0,0.0,9.39,11.73,14.08,UZ
+Dominican Republic,USD,,,6.99,9.99,13.99,Standard: 1 / Premium: 2,0.0,0.0,6.99,9.99,13.99,DO
+Honduras,USD,,,6.99,9.99,13.99,Standard: 1 / Premium: 2,0.0,0.0,6.99,9.99,13.99,HN
+Panama,USD,,,5.99,9.99,13.99,Standard: 3.99 / Premium: 3.99,0.0,0.0,5.99,9.99,13.99,PA
+Chile,CLP,,,7190.0,9990.0,12990.0,Standard: 1 / Premium: 2,0.0,0.0,7.98,11.09,14.42,CL
+Taiwan,TWD,,,290.0,380.0,460.0,Standard: 100 / Premium: 100,0.0,0.0,9.28,12.16,14.72,TW
+Japan,JPY,,890.0,,1590.0,2290.0,Not Available,0.0,5.69,0.0,10.16,14.64,JP
+Croatia,EUR,,,5.99,9.99,12.99,Not Available,0.0,0.0,7.04,11.73,15.26,HR
+Malaysia,MYR,18.9,,29.9,49.9,62.9,Standard: 13 / Premium: 13,4.67,0.0,7.39,12.33,15.54,MY
+Hungary,HUF,,,2890.0,3990.0,5090.0,Standard: 1190 / Premium: 1190,0.0,0.0,8.79,12.14,15.49,HU
+Peru,PEN,,,28.9,40.9,52.9,Standard: 8.90 / Premium: 8.90,0.0,0.0,8.59,12.16,15.73,PE
+Bahrain,USD,,,7.99,10.49,15.79,Not Available,0.0,0.0,7.99,10.49,15.79,BH
+Oman,USD,,,8.39,10.49,15.79,Not Available,0.0,0.0,8.39,10.49,15.79,OM
+Costa Rica,USD,,,8.99,12.99,15.99,Standard: 2.99 / Premium: 2.99,0.0,0.0,8.99,12.99,15.99,CR
+Romania,EUR,,,5.99,10.99,13.99,Standard: 3.99 / Premium: 3.99,0.0,0.0,7.04,12.91,16.43,RO
+Slovakia,EUR,,,9.49,11.49,13.99,Not Available,0.0,0.0,11.15,13.5,16.43,SK
+Georgia,EUR,,,9.39,11.79,13.99,Not Available,0.0,0.0,11.03,13.85,16.43,GE
+Tajikistan,EUR,,,9.39,11.79,13.99,Not Available,0.0,0.0,11.03,13.85,16.43,TJ
+Cocos (Keeling) Islands,AUD,,,12.99,18.99,25.99,Standard: 7.99 / Premium: 7.99,0.0,0.0,8.7,12.71,17.4,CC
+Norfolk Island,AUD,,,12.99,18.99,25.99,Standard: 7.99 / Premium: 7.99,0.0,0.0,8.7,12.71,17.4,NF
+Canada,CAD,,7.99,,18.99,23.99,Standard: 1 / Premium: 2,0.0,5.83,0.0,13.86,17.51,CA
+Mexico,MXN,,119.0,,249.0,329.0,Standard: 1 / Premium: 2,0.0,6.62,0.0,13.84,18.29,MX
+Kuwait,USD,,,8.99,11.99,17.99,Not Available,0.0,0.0,8.99,11.99,17.99,KW
+Qatar,USD,,,8.99,11.99,17.99,Not Available,0.0,0.0,8.99,11.99,17.99,QA
+Brunei,USD,6.49,,10.99,13.99,17.99,Not Available,6.49,0.0,10.99,13.99,17.99,BN
+French Polynesia,USD,6.49,,10.99,13.99,17.99,Not Available,6.49,0.0,10.99,13.99,17.99,PF
+Maldives,USD,6.49,,10.99,13.99,17.99,Not Available,6.49,0.0,10.99,13.99,17.99,MV
+Nauru,USD,6.49,,10.99,13.99,17.99,Not Available,6.49,0.0,10.99,13.99,17.99,NR
+New Caledonia,USD,6.49,,10.99,13.99,17.99,Not Available,6.49,0.0,10.99,13.99,17.99,NC
+Czech Republic,CZK,,,239.0,309.0,379.0,Standard: 99 / Premium: 99,0.0,0.0,11.59,14.98,18.37,CZ
+Poland,PLN,,,33.0,49.0,67.0,Standard: 13 / Premium: 13,0.0,0.0,9.18,13.63,18.64,PL
+Cyprus,EUR,,,8.99,12.49,15.99,Not Available,0.0,0.0,10.56,14.67,18.78,CY
+Greece,EUR,,,8.99,12.49,15.99,Not Available,0.0,0.0,10.56,14.67,18.78,GR
+Norway,NOK,,,99.0,129.0,189.0,Standard: 39 / Premium: 39,0.0,0.0,9.85,12.84,18.81,NO
+Svalbard & Jan Mayen,NOK,,,99.0,129.0,189.0,Not Available,0.0,0.0,9.85,12.84,18.81,SJ
+Barbados,USD,,,10.59,15.29,18.79,Standard: 3.99 / Premium: 3.99,0.0,0.0,10.59,15.29,18.79,BB
+Saudi Arabia,SAR,,,35.0,49.0,71.0,Not Available,0.0,0.0,9.33,13.07,18.93,SA
+Australia,AUD,,9.99,,20.99,28.99,Standard: 1 / Premium: 2,0.0,6.69,0.0,14.05,19.41,AU
+United Arab Emirates,AED,,,35.0,49.0,71.0,Not Available,0.0,0.0,9.53,13.34,19.33,AE
+Cook Islands,NZD,,,17.99,25.99,33.99,Standard: 1 / Premium: 2,0.0,0.0,10.42,15.05,19.68,CK
+Niue,NZD,,,17.99,25.99,33.99,Standard: 1 / Premium: 2,0.0,0.0,10.42,15.05,19.68,NU
+Tokelau,NZD,,,17.99,25.99,33.99,Standard: 1 / Premium: 2,0.0,0.0,10.42,15.05,19.68,TK
+New Zealand,NZD,,,17.99,25.99,33.99,Standard: 1 / Premium: 2,0.0,0.0,10.42,15.05,19.68,NZ
+Anguilla,USD,,,10.99,15.49,19.99,Standard: 4.99 / Premium: 4.99,0.0,0.0,10.99,15.49,19.99,AI
+Antigua & Barbuda,USD,,,10.99,15.49,19.99,Standard: 4.99 / Premium: 4.99,0.0,0.0,10.99,15.49,19.99,AG
+Aruba,USD,,,10.99,15.49,19.99,Standard: 4.99 / Premium: 4.99,0.0,0.0,10.99,15.49,19.99,AW
+Bahamas,USD,,,10.99,15.49,19.99,Standard: 4.99 / Premium: 4.99,0.0,0.0,10.99,15.49,19.99,BS
+Bermuda,USD,,,10.99,15.49,19.99,Standard: 4.99 / Premium: 4.99,0.0,0.0,10.99,15.49,19.99,BM
+British Virgin Islands,USD,,,10.99,15.49,19.99,Standard: 4.99 / Premium: 4.99,0.0,0.0,10.99,15.49,19.99,VG
+Caribbean Netherlands,USD,,,10.99,15.49,19.99,Standard: 4.99 / Premium: 4.99,0.0,0.0,10.99,15.49,19.99,BQ
+Cayman Islands,USD,,,10.99,15.49,19.99,Standard: 4.99 / Premium: 4.99,0.0,0.0,10.99,15.49,19.99,KY
+Curaçao,USD,,,10.99,15.49,19.99,Standard: 4.99 / Premium: 4.99,0.0,0.0,10.99,15.49,19.99,CW
+Montserrat,USD,,,10.99,15.49,19.99,Standard: 4.99 / Premium: 4.99,0.0,0.0,10.99,15.49,19.99,MS
+Sint Maarten,USD,,,10.99,15.49,19.99,Standard: 4.99 / Premium: 4.99,0.0,0.0,10.99,15.49,19.99,SX
+St. Kitts & Nevis,USD,,,10.99,15.49,19.99,Standard: 4.99 / Premium: 4.99,0.0,0.0,10.99,15.49,19.99,KN
+Trinidad and Tobago,USD,,,10.99,15.49,19.99,Standard: 4.99 / Premium: 4.99,0.0,0.0,10.99,15.49,19.99,TT
+Turks & Caicos Islands,USD,,,10.99,15.49,19.99,Standard: 4.99 / Premium: 4.99,0.0,0.0,10.99,15.49,19.99,TC
+Portugal,EUR,,,8.99,12.99,17.99,Standard: 4.99 / Premium: 4.99,0.0,0.0,10.56,15.26,21.13,PT
+Réunion,EUR,,,10.99,13.49,17.99,Standard: 1 / Premium: 2,0.0,0.0,12.91,15.85,21.13,RE
+Åland Islands,EUR,,,9.49,13.99,17.99,Not Available,0.0,0.0,11.15,16.43,21.13,AX
+Finland,EUR,,,9.49,13.99,17.99,Standard: 3.99 / Premium: 3.99,0.0,0.0,11.15,16.43,21.13,FI
+Sweden,SEK,,,109.0,149.0,199.0,Standard: 55 / Premium: 55,0.0,0.0,11.86,16.21,21.65,SE
+Israel,ILS,,,32.9,54.9,69.9,Standard: 16.90 / Premium: 16.90,0.0,0.0,10.36,17.28,22.0,IL
+Uruguay,USD,,,11.99,16.99,21.99,Standard: 1 / Premium: 2,0.0,0.0,11.99,16.99,21.99,UY
+Singapore,SGD,,,15.98,22.98,29.98,Standard: 1 / Premium: 2,0.0,0.0,12.44,17.89,23.34,SG
+Andorra,EUR,,,8.99,13.99,19.99,Standard: 5.99 / Premium: 5.99,0.0,0.0,10.56,16.43,23.48,AD
+Gibraltar,EUR,,,8.99,13.99,19.99,Standard: 5.99 / Premium: 5.99,0.0,0.0,10.56,16.43,23.48,GI
+Malta,EUR,,,8.99,13.99,19.99,Standard: 1 / Premium: 2,0.0,0.0,10.56,16.43,23.48,MT
+San Marino,EUR,,6.99,,13.99,19.99,Standard: 4.99 / Premium: 4.99,0.0,8.21,0.0,16.43,23.48,SM
+Vatican City,EUR,,6.99,,13.99,19.99,Standard: 4.99 / Premium: 4.99,0.0,8.21,0.0,16.43,23.48,VA
+Italy,EUR,,6.99,,13.99,19.99,Standard: 1 / Premium: 2,0.0,8.21,0.0,16.43,23.48,IT
+Spain,EUR,,6.99,,13.99,19.99,Standard: 1 / Premium: 2,0.0,8.21,0.0,16.43,23.48,ES
+Austria,EUR,,,8.99,13.99,19.99,Standard: 1 / Premium: 2,0.0,0.0,10.56,16.43,23.48,AT
+Germany,EUR,,4.99,,13.99,19.99,Standard: 1 / Premium: 2,0.0,5.86,0.0,16.43,23.48,DE
+Netherlands,EUR,,,9.99,15.99,20.99,Standard: 1 / Premium: 2,0.0,0.0,11.73,18.78,24.66,NL
+Iceland,EUR,,,9.99,14.99,20.99,Standard: 1 / Premium: 2,0.0,0.0,11.73,17.61,24.66,IS
+Falkland Islands,USD,,,11.99,17.99,24.99,Standard: 1 / Premium: 2,0.0,0.0,11.99,17.99,24.99,FK
+Heard & McDonald Islands,USD,,,11.99,17.99,24.99,Not Available,0.0,0.0,11.99,17.99,24.99,HM
+South Georgia & South Sandwich Islands,USD,,,11.99,17.99,24.99,Not Available,0.0,0.0,11.99,17.99,24.99,GS
+U.S. Outlying Islands,USD,,,11.99,17.99,24.99,Not Available,0.0,0.0,11.99,17.99,24.99,UM
+American Samoa,USD,,7.99,,17.99,24.99,Standard: 1 / Premium: 2,0.0,7.99,0.0,17.99,24.99,AS
+Guam,USD,,7.99,,17.99,24.99,Standard: 1 / Premium: 2,0.0,7.99,0.0,17.99,24.99,GU
+Marshall Islands,USD,,7.99,,17.99,24.99,Not Available,0.0,7.99,0.0,17.99,24.99,MH
+Micronesia,USD,,7.99,,17.99,24.99,Standard: 1 / Premium: 2,0.0,7.99,0.0,17.99,24.99,FM
+Northern Mariana Islands,USD,,7.99,,17.99,24.99,Standard: 1 / Premium: 2,0.0,7.99,0.0,17.99,24.99,MP
+Palau,USD,,7.99,,17.99,24.99,Standard: 1 / Premium: 2,0.0,7.99,0.0,17.99,24.99,PW
+Puerto Rico,USD,,7.99,,17.99,24.99,Standard: 1 / Premium: 2,0.0,7.99,0.0,17.99,24.99,PR
+U.S. Virgin Islands,USD,,7.99,,17.99,24.99,Standard: 1 / Premium: 2,0.0,7.99,0.0,17.99,24.99,VI
+United States,USD,,7.99,,17.99,24.99,Standard: 1 / Premium: 2,0.0,7.99,0.0,17.99,24.99,US
+Guernsey,GBP,,,,12.99,18.99,Standard: 1 / Premium: 2,0.0,0.0,0.0,17.49,25.58,GG
+Isle of Man,GBP,,,,12.99,18.99,Standard: 1 / Premium: 2,0.0,0.0,0.0,17.49,25.58,IM
+Jersey,GBP,,,,12.99,18.99,Standard: 1 / Premium: 2,0.0,0.0,0.0,17.49,25.58,JE
+United Kingdom,GBP,,,,12.99,18.99,Standard: 1 / Premium: 2,0.0,0.0,0.0,17.49,25.58,GB
+Belgium,EUR,,,10.99,16.99,21.99,Standard: 1 / Premium: 2,0.0,0.0,12.91,19.96,25.83,BE
+Luxembourg,EUR,,,10.99,16.99,21.99,Standard: 1 / Premium: 2,0.0,0.0,12.91,19.96,25.83,LU
+French Guiana,EUR,,,11.99,14.99,21.99,Standard: 1 / Premium: 2,0.0,0.0,14.08,17.61,25.83,GF
+Guadeloupe,EUR,,,11.99,14.99,21.99,Standard: 1 / Premium: 2,0.0,0.0,14.08,17.61,25.83,GP
+Martinique,EUR,,,11.99,14.99,21.99,Standard: 1 / Premium: 2,0.0,0.0,14.08,17.61,25.83,MQ
+Mayotte,EUR,,,11.99,14.99,21.99,Standard: 1 / Premium: 2,0.0,0.0,14.08,17.61,25.83,YT
+French Southern Territories,EUR,,7.99,,14.99,21.99,Not Available,0.0,9.39,0.0,17.61,25.83,TF
+France,EUR,,7.99,,14.99,21.99,Standard: 1 / Premium: 2,0.0,9.39,0.0,17.61,25.83,FR
+Monaco,EUR,,,11.99,14.99,21.99,Standard: 1 / Premium: 2,0.0,0.0,14.08,17.61,25.83,MC
+St. Pierre & Miquelon,EUR,,,11.99,14.99,21.99,Standard: 1 / Premium: 2,0.0,0.0,14.08,17.61,25.83,PM
+Denmark,DKK,,,89.0,129.0,169.0,Standard: 39 / Premium: 39,0.0,0.0,14.0,20.29,26.58,DK
+Faroe Islands,DKK,,,89.0,129.0,169.0,Not Available,0.0,0.0,14.0,20.29,26.58,FO
+Greenland,DKK,,,89.0,129.0,169.0,Standard: 39 / Premium: 39,0.0,0.0,14.0,20.29,26.58,GL
+Ireland,EUR,,,10.99,16.99,23.99,Standard: 1 / Premium: 2,0.0,0.0,12.91,19.96,28.18,IE
+Liechtenstein,CHF,,,14.9,22.9,29.9,Standard: 1 / Premium: 2,0.0,0.0,18.81,28.91,37.74,LI
+Switzerland,CHF,,,14.9,22.9,29.9,Standard: 1 / Premium: 2,0.0,0.0,18.81,28.91,37.74,CH
+Nepal,,,,,,,Not Available,0.0,0.0,0.0,0.0,0.0,NP
