@@ -17,9 +17,9 @@ This project explores the Affordability Gap. By cross-referencing global Netflix
 * **Systemic Inequality:** In some regions, like Burundi, a standard subscription can consume up to 43.7% of the average annual income.
 * **Digital Divide:** While the service is the same globally, the financial barrier to entry varies by over 600x between the most and least affordable markets.
 
-## 🖼️ Visualizations
+## 🖼️ Visualization
 ![Most Affordable Countries Netflix Annual Cost as Percsent of GDP per Capita (2024)](https://github.com/user-attachments/assets/d92ecf75-c263-4da8-a42b-455df21307c6)
-> **Figure 1**: This visualization highlights the "Affordability Gap." While nominal prices might be lower in developing nations, the cost relative to average income (GDP per capita) reveals a significant economic burden in those regions.
+> This visualization highlights the "Affordability Gap." While nominal prices might be lower in developing nations, the cost relative to average income (GDP per capita) reveals a significant economic burden in those regions.
 > 
 ## 🛠️ Project Structure
 I've organized the work into logical steps to make it easy to follow: 
